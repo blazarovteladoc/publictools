@@ -1,0 +1,6 @@
+#!/bin/bash
+yum update -y
+yum install -y git mysql jq
+echo iz1 > /etc/appstackid.conf
+cd /opt
+git clone https://github.com/blazarovteladoc/publictools
