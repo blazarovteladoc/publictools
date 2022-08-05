@@ -1,3 +1,4 @@
+use movies;
 insert into categories (category_name, remarks) values ('cultivate','decide');
 insert into categories (category_name, remarks) values ('ivory','wonder');
 insert into categories (category_name, remarks) values ('incapable','nomination');
